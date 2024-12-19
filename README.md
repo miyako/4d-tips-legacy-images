@@ -5,7 +5,7 @@ archive of 4D 2004 resources converted to PNG
 * "ShowSubset" and "Report" icons are missing for São Paulo and Philadelphia.
 * "NextPage" and "PreviousPage" only exists for Nostalgia and OS X.
 
-|Icon|São Paulo|Philadelphia|Marker|XP|Nostalgia|&nbsp; &nbsp; &nbsp;OS X&nbsp; &nbsp; &nbsp;|Glass|
+|Icon|São Paulo|Philadelphia|Marker|XP|Nostalgia|&nbsp; &nbsp; &nbsp;OS&nbsp;X&nbsp; &nbsp; &nbsp;|Glass|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Cancel|<img src="São Paulo/Cancel.png" />|<img src="Philadelphia/Cancel.png" />|<img src="Marker/Cancel.png" />|<img src="XP/Cancel.png" />|<img src="Nostalgia/Cancel.png" />|<img src="OS X/Cancel.png" />|<img src="Glass/Cancel.png" />|
 |DeleteRecord|<img src="São Paulo/DeleteRecord.png" />|<img src="Philadelphia/DeleteRecord.png" />|<img src="Marker/DeleteRecord.png" />|<img src="XP/DeleteRecord.png" />|<img src="Nostalgia/DeleteRecord.png" />|<img src="OS X/DeleteRecord.png" />|<img src="Glass/DeleteRecord.png" />|
