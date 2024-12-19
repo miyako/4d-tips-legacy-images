@@ -1,5 +1,5 @@
 # 4d-tips-legacy-images
-archive 4D 2004 resources converted to PNG
+archive of 4D 2004 resources converted to PNG
 
 * "Graph" icon is missing for São Paulo.
 * "ShowSubset" and "Report" icons are missing for São Paulo and Philadelphia.
